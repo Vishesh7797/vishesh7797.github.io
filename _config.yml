@@ -21,19 +21,19 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 15
   exclude:
     archived: false
     forks: false
     projects:
     # - repo-name
 
- social_media:
+ #social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-   instagram: vishesh79
+  # instagram: vishesh79
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
