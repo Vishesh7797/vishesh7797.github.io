@@ -81,7 +81,7 @@ website:
 resume:
   name: Resume
   profile_url_prefix: https://vishesh7797.github.io/
-  image_url: <img src="https://img.icons8.com/nolan/64/resume.png"/>
+  image_url: "https://img.icons8.com/ultraviolet/40/000000/parse-resumes.png"
 
 youtube:
   name: YouTube
