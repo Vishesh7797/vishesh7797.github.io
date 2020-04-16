@@ -57,7 +57,7 @@ social_media:
 topics:
   - name: Flutter  
     web_url: https://github.com/flutter/flutter
-    image_url: https://www.kindpng.com/imgv/hihxibR_flutter-logo-png-transparent-png/
+    image_url: https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png
 
   - name: Unity
     web_url: https://github.com/topics/unity
