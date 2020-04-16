@@ -29,6 +29,8 @@ projects:
     forks: true
     projects:
       - Dropbox-Assignment
+      - Resume
+      - Chess-Puzzles
     # - repo-name
 
 social_media:
@@ -46,8 +48,8 @@ social_media:
   twitter: vishesh7779
   # unsplash: your_username
   # vk: your_username
-  resume: Resume
   # website: http://your_website_url
+  resume: Resume
   # youtube: your_username
 
 
