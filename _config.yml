@@ -23,7 +23,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 10
+  limit: 12
   exclude:
     archived: false
     forks: true
@@ -41,6 +41,7 @@ projects:
       - xSauced
       - Kaggle-notebooks
       - Heap-Assignment
+      - CryptoGenerator
       
     # - repo-name
 
