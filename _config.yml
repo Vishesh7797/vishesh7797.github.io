@@ -29,6 +29,7 @@ projects:
     forks: true
     projects:
       - Resume
+      - Dropbox-Assignment
       - Chess-Puzzles
       - CSS-HAML-Module2
       - VRx
