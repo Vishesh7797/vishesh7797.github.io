@@ -28,7 +28,6 @@ projects:
     archived: true
     forks: true
     projects:
-      - Dropbox-Assignment
       - Resume
       - Chess-Puzzles
       - CSS-HAML-Module2
